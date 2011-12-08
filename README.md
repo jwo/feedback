@@ -8,7 +8,7 @@ Don't worry if I close your issue after I answer- it's just so I don't have
 open issues! I'd love to chat with you further on your issue after it's been
 initially answered.
 
-## Didn't you totally rip this off from Zach Hollman?
+## Didn't you totally rip this off from Zach Holman?
 
 Yes.
 
